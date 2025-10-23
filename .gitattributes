@@ -1,0 +1,6 @@
+小说/金庸作品全集[[:space:]](全36册)新修版[[:space:]](金庸).epub filter=lfs diff=lfs merge=lfs -text
+computer/c[[:space:]]primer[[:space:]]plus[[:space:]]6th[[:space:]](中文版).pdf filter=lfs diff=lfs merge=lfs -text
+computer/现代操作系统.pdf filter=lfs diff=lfs merge=lfs -text
+computer/计算机组成原理[[:space:]](（英）艾伦·克莱门茨)[[:space:]](Z-Library).pdf filter=lfs diff=lfs merge=lfs -text
+math/Thomas[[:space:]]Calculus[[:space:]]Early[[:space:]]Transcendentals.[[:space:]]Fifteenth[[:space:]]Edition[[:space:]](Joel[[:space:]]Hass,[[:space:]]Christopher[[:space:]]Heil,[[:space:]]Przemyslaw[[:space:]]Bogacki[[:space:]]etc.).pdf filter=lfs diff=lfs merge=lfs -text
+math/普林斯顿微积分读本(修订版)[[:space:]](阿德里安．班纳[[:space:]](Adrian[[:space:]]Banner)).pdf filter=lfs diff=lfs merge=lfs -text
